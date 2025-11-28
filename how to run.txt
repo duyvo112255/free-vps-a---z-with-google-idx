@@ -1,0 +1,21 @@
+1.
+open idx.google.com -> import repo 
+-> repo url: https://github.com/DreamHost2ws/vps123
+-> Name your workspace: your name
+
+open your terminal -> past command
+bash <(curl -fsSL https://raw.githubusercontent.com/DreamHost2ws/Panel/main/IDXvps)
+
+run: 2, y
+-> rebuild your workspace
+
+run:
+bash <(curl -fsSL https://raw.githubusercontent.com/DreamHost2ws/Panel/main/IDXvps)
+2 enter
+y enter
+1 enter
+7 enter
+enter
+root enter
+{your name} enter
+{your pass word} enter
